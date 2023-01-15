@@ -1,0 +1,2 @@
+reg_data$log_cite_top_1_in_10和reg_data$log_cite_top_1_in_100忘记取对数
+（reg_pdata已修复，reg_data写好了修复代码但未运行）

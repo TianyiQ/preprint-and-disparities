@@ -1,0 +1,4 @@
+- article.pdf是项目论文，包含了整个项目的主要内容。
+- main.rmd是本项目的主要文件，包含项目笔记和R代码。
+- processpapers.py和topauthors.py是被main.rmd调用的python代码。
+- 其余文件和文件夹均用作备份或数据中转用。
