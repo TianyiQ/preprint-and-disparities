@@ -971,10 +971,10 @@ rc_row_labels <- c(
   "ex_log - log_med", 
   "log_cite_top_1_in_10 - log_med", 
   "log_cite_top_1_in_100 - log_med",
-  "cite_30pc_dominator",
-  "cite_50pc_dominator",
-  "cite_70pc_dominator",
-  "cite_90pc_dominator"
+  "- cite_30pc_dominator",
+  "- cite_50pc_dominator",
+  "- cite_70pc_dominator",
+  "- cite_90pc_dominator"
 )
 rc_control_str <- "log_field_sz + log_field_sz_prev + log_rel_field_sz + log_rel_field_sz_prev + log_self_cite_lag + log_self_cite_lag_prev + log_papers_per_author + log_papers_per_author_prev + log_authors_per_paper + log_authors_per_paper_prev + as.factor(discip) + as.factor(time)"
 for(rc_y_str in rc_row_labels){
